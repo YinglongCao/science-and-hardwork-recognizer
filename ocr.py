@@ -1,4 +1,4 @@
-from paddleocr import PaddleOCR, draw_ocr
+from paddleocr import PaddleOCR
 
 # OCR识别模块
 class OCRDetector:
